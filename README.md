@@ -23,6 +23,5 @@ Students practise movement skills, use feedback to improve performance, and refl
 - Reflection exit slips
 - Teacher observation checklist
 - Assessment rubric
-- Lesson 1 tennis grip and forehand lesson plan
 - Annotated forehand and soccer pass examples
 - Student-only resource copies
