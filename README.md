@@ -1,8 +1,8 @@
-# Year 8 HPE Giving Feedback Resource Pack
+﻿# Year 8 HPE Giving Feedback Resource Pack
 
 Ready-to-use assessment and teaching resources for:
 
-**Unit 4: Giving Feedback**  
+**Giving Feedback**  
 **Strong Teams: Feedback, Communication & Performance Improvement**
 
 Open `index.html` to access the full teacher resource pack.
